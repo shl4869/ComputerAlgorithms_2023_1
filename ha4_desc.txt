@@ -1,0 +1,15 @@
+desc.txt
+
+ha4 ComputerAlgorithm
+2071035 Lee Somin
+
+
+
+*** Command Line for problem ***
+cmd 실행 후 코드가 있는 디렉터리로 이동: cd 경로
+python ha4_1.py
+
+
+
+*** How to change Input element for problems ***
+Original Array를 변경하려면 main함수에서 배열 A의 원소들을 변경해준다.

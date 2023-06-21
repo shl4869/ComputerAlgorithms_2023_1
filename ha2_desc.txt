@@ -1,0 +1,21 @@
+desc.txt
+
+ha2 ComputerAlgorithm
+2071035 Lee Somin
+
+
+
+*** Command Line for problem 1, 2, 3 ***
+cmd 실행 후 코드가 있는 디렉터리로 이동: cd 경로
+
+python ha2_1.py
+python ha2_2.py
+python ha2_3.py
+
+
+
+*** How to change Input element for problems ***
+- ha2_1: 정수형 배열 arr의 배열값들을 원하는 배열값으로 변경해준다. 
+- ha2_2: 우표의 가격을 변경하려면 정수형 배열 p_stamp를 수정한다. 단, 이 배열은 오름차순으로 정렬되어있다. 
+	전체 우편의 가격을 변경하려면 정수형 변수 cost를 수정한다.
+- ha2_3: 그래프의 간선 길이나 노드의 갯수를 변경하려면 2차원 배열 W를 수정한다. W[p][q]에서 p는 source node, q는 destination node를 나타낸다. W의 행,열은 그래프의 노드의 갯수만큼의 크기를 가지고 그 내용은 노드간의 직접연결간선 길이를 나타낸다. 노드 n으로부터 노드 m까지의 path를 출력하려면 임의의 빈 배열 printPath와 path, 시작노드, 목적지노드를 매개변수로 print_path()함수에 넘긴다. 

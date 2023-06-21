@@ -1,0 +1,16 @@
+desc.txt
+
+ha2 ComputerAlgorithm
+2071035 Lee Somin
+
+
+
+*** Command Line for problem 1, 2, 3 ***
+cmd 실행 후 코드가 있는 디렉터리로 이동: cd 경로
+python ha3_2.py
+
+
+
+*** How to change Input element for problems ***
+original array의 원소를 변경하려면 전역변수 배열 w의 원소를 변경한다.
+구하려는 부분집합의 원소합을 변경하려면 전역변수의 M의 값을 변경한다. 
